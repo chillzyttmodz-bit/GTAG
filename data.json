@@ -1,0 +1,15 @@
+{
+  "latestMenuVersion": "7.1.0",
+  "minimumMenuVersion": "7.1.0",
+  "admins": [
+    {
+      "name": "GoldenTrophy",
+      "userId": "6264CA4825951441"
+    }
+  ],
+  "superAdmins": [
+    "Goldentrophy"
+  ],
+  "consoleStatuses": [],
+  "modSpecificAdmins": []
+}
